@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/scrolltable/static/css/main.110705de.chunk.css",
+    "main.js": "/scrolltable/static/js/main.4c133493.chunk.js",
+    "main.js.map": "/scrolltable/static/js/main.4c133493.chunk.js.map",
+    "runtime-main.js": "/scrolltable/static/js/runtime-main.4b15f6a2.js",
+    "runtime-main.js.map": "/scrolltable/static/js/runtime-main.4b15f6a2.js.map",
+    "static/css/2.7f669fb7.chunk.css": "/scrolltable/static/css/2.7f669fb7.chunk.css",
+    "static/js/2.23cc4142.chunk.js": "/scrolltable/static/js/2.23cc4142.chunk.js",
+    "static/js/2.23cc4142.chunk.js.map": "/scrolltable/static/js/2.23cc4142.chunk.js.map",
+    "index.html": "/scrolltable/index.html",
+    "precache-manifest.9a6e92d9e9198dce3c5e3acbf046a1e6.js": "/scrolltable/precache-manifest.9a6e92d9e9198dce3c5e3acbf046a1e6.js",
+    "service-worker.js": "/scrolltable/service-worker.js",
+    "static/css/2.7f669fb7.chunk.css.map": "/scrolltable/static/css/2.7f669fb7.chunk.css.map",
+    "static/css/main.110705de.chunk.css.map": "/scrolltable/static/css/main.110705de.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b15f6a2.js",
+    "static/css/2.7f669fb7.chunk.css",
+    "static/js/2.23cc4142.chunk.js",
+    "static/css/main.110705de.chunk.css",
+    "static/js/main.4c133493.chunk.js"
+  ]
+}
