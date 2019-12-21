@@ -1,0 +1,39 @@
+.addshop-box{
+    Form{
+        
+        h4{
+            font-weight: 400;
+        }
+        .shopclass{
+            margin-top: 20px;
+            ul{
+                display: flex;
+                list-style: none;
+                width: 45%;
+                flex-wrap: wrap;
+                li{
+                    margin-bottom: 10px;
+                }
+            }
+        }
+        .city{
+            font-weight: 400;
+            font-size: 14px;
+        }
+        .shop_address{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .anticon{
+            position: relative;
+            left:-30px;
+        }
+    }
+    .ant-list-item{
+        &:hover{
+            background: rgb(176, 198, 240);
+        }
+    }
+    }
+    
+}
