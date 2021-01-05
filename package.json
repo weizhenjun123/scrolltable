@@ -5,7 +5,7 @@
   "homepage": "https://weizhenjun123.github.io/scrolltable/",
   "dependencies": {
     "antd": "^3.26.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.13.0",
     "customize-cra": "^0.9.1",
     "react": "^16.12.0",
